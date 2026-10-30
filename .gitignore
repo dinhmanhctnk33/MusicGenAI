@@ -1,0 +1,20 @@
+.idea/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Generated outputs
+checkpoints/
+generated.mid
+generated.mp3
+visualizations/
+
+# Large third-party/raw assets. Download these separately.
+dataset/
+dataset_clean/
+soundfont/
+tools/
+
+# Local reports and presentation
+*_report.csv
+Bao_Cao_MusicGenAI.pptx

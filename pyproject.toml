@@ -1,0 +1,11 @@
+[project]
+name = "musicgenai"
+version = "0.1.0"
+requires-python = ">=3.14"
+dependencies = [
+    "matplotlib>=3.11.1",
+    "pandas>=3.0.5",
+    "pretty-midi>=0.2.11.post0",
+    "torch>=2.14.0",
+    "tqdm>=4.70.0",
+]
